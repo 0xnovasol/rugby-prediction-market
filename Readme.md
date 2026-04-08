@@ -69,7 +69,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Bebop**
 
-<img width="1883" height="900" alt="546426265-b0c55d79-7da5-4880-b1fd-aac32ce7b662" src="https://github.com/user-attachments/assets/231fe119-0879-4975-9339-1ec4269d2208" />
+<img align="right" width="350px" height="170px alt="546426265-b0c55d79-7da5-4880-b1fd-aac32ce7b662" src="https://github.com/user-attachments/assets/231fe119-0879-4975-9339-1ec4269d2208" />
 
 - Bebop is a Web3 crypto trading platform and API designed for decentralized finance, enabling optimized token swaps across multiple blockchains.
 
