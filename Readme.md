@@ -1,6 +1,6 @@
 # Blockchain & Web3 Engineer
 
-🚀 **I build scalable, secure blockchain systems as a Web3 engineer across EVM chains, Solana, and Bitcoin.** My expertise spans **DeFi, DEXs, blockchain protocols, hybrid on-chain/off-chain data systems, and AI agents**.
+🚀 **I build scalable, secure blockchain systems as a Web3 engineer on Solana** My expertise spans **DeFi, DEXs, blockchain protocols, hybrid on-chain/off-chain data systems, and AI agents**.
 
 I design systems that combine **smart contracts, AI agents, and real-world data** to create full-stack decentralized applications with production-level performance.
 
@@ -9,13 +9,10 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 ## 🌐 Key Expertise
 
 <p>
-<img alt="EVM" src="https://img.shields.io/badge/-EVM-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
-<img alt="EVM" src="https://img.shields.io/badge/-HyperEVM-627EEA?style=flat-square&logo=hyperliquid&logoColor=white" />
 <img alt="Solana" src="https://img.shields.io/badge/-Solana-00FFA3?style=flat-square&logo=solana&logoColor=white" />
-<img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-FF4088?style=flat-square&logoColor=white" />
 </p>
 
@@ -40,39 +37,39 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ---
 
-### **🔷 Kitten Swap**
+### **🟢 Solana Agent Market**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/259ed84a-ae2f-4202-bda7-29a2ae53ac55">
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7f0a7e5e-65b3-4082-883a-9a084dc24289">
 
-- Kittenswap is a decentralized exchange built on emerging blockchains like HyperEVM and Hyperliquid.
+- A decentralized AI agent marketplace on Solana that lets users hire AI agents on-chain.
 
-- Users lock KITTEN tokens to gain governance power and earn rewards through a ve(3,3) model.
+- Users can hire verified AI agents on-chain, pay instantly in SOL, and let smart contracts automatically handle escrow, reputation scoring, task execution, and revenue splits. 
 
-- The protocol incentivizes long-term participation by sharing fees and emissions with committed holders.
+- Includes NFT-based agent ownership and the flagship SecurityGuard AI agent, which scans transactions in <2 seconds at 99.8% accuracy using Google Gemini
 
-📌 **Live:** [kittenswap.finance](https://kittenswap.finance/)
-📌 **Docs:** [Docs](https://docs.kittenswap.finance/introduction)
-
----
-
-### **🔷 Totem Finance**
-
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/bf7c0aba-fef6-448b-9f7b-6c9cce287d40">
-
-- TotemFi is a decentralized finance prediction platform that offers rewards in Bitcoin and its native token.
-
-- It leverages blockchain technology to address inefficiencies found in traditional prediction and financial markets.
-
-- The platform aims to provide an accessible, lower-risk environment by tokenizing predictions on future asset prices and event
-
-📌 **Live:** [totemfi.com](https://www.totemfi.com/)
-📌 **Contract:** [Address](https://etherscan.io/address/0x6ff1bfa14a57594a5874b37ff6ac5efbd9f9599a)
+📌 **Live:** [Live](https://agentmarket.sites.citorg.in/)
+📌 **Repo:** [Github](https://github.com/0xnovasol/solana-agent-market)
 
 ---
 
-### **🔷 Bebop**
+### **🟢 Duel Duck Prediction Market**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/b0c55d79-7da5-4880-b1fd-aac32ce7b662">
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/9b8d6497-16e0-4545-8376-ebc3229dfdc0">
+
+- Duel Duck is a Solana’s peer-to-peer on-chain prediction market platform.
+
+- Users create and join simple Yes/No "duels" to forecast real-world events and staking USDC with fully transparent, automatic smart-contract settlements and instant payouts to winners
+
+- Includes creator revenue share, monthly USDC leaderboards, points-based airdrop system, and a developer Prediction Market API for embedding on-chain markets into any Web3 app.
+
+📌 **Live:** [duelduck.com](https://duelduck.com/)
+📌 **Repo:** [Github](https://github.com/0xnovasol/duel-duck-pred-market)
+
+---
+
+### **🟢 Bebop**
+
+<img width="1883" height="900" alt="546426265-b0c55d79-7da5-4880-b1fd-aac32ce7b662" src="https://github.com/user-attachments/assets/231fe119-0879-4975-9339-1ec4269d2208" />
 
 - Bebop is a Web3 crypto trading platform and API designed for decentralized finance, enabling optimized token swaps across multiple blockchains.
 
@@ -85,39 +82,9 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ---
 
-### **🔷 Bet Big**
-
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7aebb6b6-5d86-4f9f-a01d-d9d90ceda200">
-
-- betBIG is a crypto gambling (GambleFi) platform built on Blast, positioning itself as the main gambling hub within the ecosystem.
-
-- It aggregates on-chain casino-style games and decentralized betting experiences.
-
-- The platform distributes 100% of its profits to token stakers, directly aligning users with protocol revenue.
-
-📌 **Live:** [betBIG](https://betbig.gg/)
-📌 **Contact:** [X](https://x.com/BetBIG_gg/)
-
----
-
-### **🔷 Blast Penguins**
-
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/cb5f852a-3dce-408b-a14d-373b3a6e96ab">
-
-- Blast Penguins is an NFT collection built on the Blast blockchain.
-
-- Total supply: 3,333 unique NFTs
-
-- Positioned as one of the first and biggest NFT communities on Blast L2.
-
-📌 **Live:** [Blast Penguins](http://blastpenguins.xyz/)
-📌 **Collection:** [blur.io](https://blur.io/blast/collection/blastpenguin)
-
----
-
 ### **🟢 Luck.io (Fully Non-Custodial Solana Casino)**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/1b8ee9e9-befd-42d0-b02c-86b0953acc85">
+<img width="1891" height="900" alt="546428140-1b8ee9e9-befd-42d0-b02c-86b0953acc85" src="https://github.com/user-attachments/assets/0359b5ab-afb2-4a45-bade-35805b69f0ee" />
 
 - Luck is a decentralized, non-custodial crypto casino built on the Solana blockchain, allowing users to gamble directly from their own wallets without accounts or KYC.
 
@@ -132,7 +99,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Critters Quest (NFT Game)**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/92b8618c-9856-4756-a65c-bd22ee352b3d">
+<img width="1425" height="821" alt="507465253-92b8618c-9856-4756-a65c-bd22ee352b3d" src="https://github.com/user-attachments/assets/674d44ab-cd25-4677-ad2c-4a9f2266b13d" />
 
 - Critters Quest is a Solana-based crypto gaming and NFT ecosystem built around “gaming collectibles that grow through gameplay,” powered by the $QUEST utility token.
 
@@ -147,7 +114,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Floppy Labs (NFT Non-Custodial Staking)**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5c64413a-581f-4b03-bc61-29d286599efa">
+<img width="1806" height="889" alt="546437161-5c64413a-581f-4b03-bc61-29d286599efa" src="https://github.com/user-attachments/assets/9092cbc3-6fe0-4c92-8fe5-04d8a0a7334e" />
 
 - FloppyLabs is a staking-as-a-service platform primarily serving NFT projects within the Solana ecosystem.
 
@@ -162,7 +129,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Rekt Gang**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/477be5a1-a212-4c65-8cd6-3ffc9008b20a">
+<img width="1882" height="893" alt="546435341-477be5a1-a212-4c65-8cd6-3ffc9008b20a" src="https://github.com/user-attachments/assets/6cca7c7c-540c-4164-86e1-7dcf72c4e17f" />
 
 - Rekt Gang is a multichain, NFT-focused crypto community and DAO built to support users who have experienced losses in crypto and NFTs.
 
@@ -177,7 +144,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 HydraSwap (Solana DEX)**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/f11ab626-1042-4de9-9455-8b6c35ee350b">
+<img width="1901" height="924" alt="410856280-f11ab626-1042-4de9-9455-8b6c35ee350b" src="https://github.com/user-attachments/assets/6d834418-ebdb-4f04-9cec-6a1178f10444" />
 
 - Cross-chain DEX with **Hydra Market Maker (HMM)**
 
@@ -190,7 +157,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ### **🟢 Plutonians**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5dd2b811-e8c3-4773-9604-a9a152453197">
+<img width="1883" height="897" alt="546438332-5dd2b811-e8c3-4773-9604-a9a152453197" src="https://github.com/user-attachments/assets/480028b2-4b0c-437a-a669-acaa04363bd4" />
 
 - Plutonians is a Solana-based VR-enabled space RPG and MMO where players pilot NFT spaceships, explore galaxies, and participate in an on-chain economy.
 
@@ -200,13 +167,5 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 📌 **Live:** [plutonians.tech](https://plutonians.tech/)
 📌 **Docs:** [Medium](https://plutonians.medium.com/)
-
----
-
-
-## 🔒 Security & Audits
-
-* MultiSig wallets, PSBT, DLCs, governance & voting systems
-* Non-custodial staking & advanced security for Bitcoin, Solana & EVM
 
 ---
